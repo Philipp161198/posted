@@ -30,8 +30,8 @@ Otto-2017,Figure 6,Primary,*,#,2017,Input|Coal,Output|Steel Liquid,0.284,,MWh_co
 Otto-2017,Figure 6,Primary,*,#,2017,Input|Direct Reduced Iron,Output|Steel Liquid,1.03,,t,1,t,
 Otto-2017,Figure 6,Primary,*,#,2017,Input|Electricity,Output|Steel Liquid,2.07,,GJ,1,t,
 Otto-2017,Figure 6,Primary,*,#,2017,Input|Natural Gas,Output|Steel Liquid,0.78,,GJ_NG_LHV,1,t,
-Otto-2017,Figure 6,*,*,#,2017,Input|Nitrogen,Output|Steel Liquid,0.5,,t,1,t,
-Otto-2017,Figure 6,*,*,#,2017,Input|Oxygen,Output|Steel Liquid,0.5,,t_O2,1,t,
+Otto-2017,Figure 6,*,*,#,2017,Input|Nitrogen,Output|Steel Liquid,0.008,,t,1,t,
+Otto-2017,Figure 6,*,*,#,2017,Input|Oxygen,Output|Steel Liquid,0.05,,t_O2,1,t,
 Rechberger-2020,Section 4.2.1,Primary,*,#,2020,Input|Electricity,Output|Steel Liquid,475,165,kWh,1,t,
 Rosner-2023,"Supplementary Information, Pages 9 and 10 of 14, Tables S6 and S8",*,*,Maintenance,2022,OPEX Fixed,Output Capacity|Steel Liquid,6330.5,,kUSD_2022/year,1162120,t/year,"The value reported by the source accounts for property tax and insurance of 2% of the total plan cost. Here we divide this reported value by a factor of 2 to account for the fact that the full route reported by the source consists of a direct reduction furnace and an electric arc furnace, whereas here we only report direct reduction."
 Rosner-2023,"Supplementary Information, Pages 9 and 10 of 14, Tables S6 and S8",*,*,Labour,2022,OPEX Fixed,Output Capacity|Steel Liquid,46860,,kUSD_2022/year,1278332,t/year,"The value reported by the source accounts for property tax and insurance of 2% of the total plan cost. Here we divide this reported value by a factor of 2 to account for the fact that the full route reported by the source consists of a direct reduction furnace and an electric arc furnace, whereas here we only report direct reduction."
