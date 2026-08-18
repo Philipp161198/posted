@@ -49,3 +49,13 @@ IEA-GHG-2013,"Page 519 of 642, Document Page D-28, Volume 3, Section 5.6, Table 
 IEA-GHG-2013,"Page 519 of 642, Document Page D-28, Volume 3, Section 5.6, Table D-15, OBF / MDEA CO2 Capture Case",Top-gas recycling,2013,Other,OPEX Fixed,Output Capacity|Steel Hot-rolled Coil,8.602,,mnUSD_2010/yr,4,Mt/yr,"Slag processing, on-site haulage, disposal and landfill."
 IEA-GHG-2013,"Page 519 of 642, Document Page D-28, Volume 3, Section 5.6, Table D-15, OBF / MDEA CO2 Capture Case",Top-gas recycling,2013,#,OPEX Variable,Output|Steel Hot-rolled Coil,97.171,,mnUSD_2010,4,Mt,Fluxes and Consumables & Other Utilities.
 IEA-GHG-2013,"Page 488 of 642, Document Page C-28, Volume 3, Section 6.5, Table C-17",Top-gas recycling,2013,#,Output|Captured CO2,Output|Steel Hot-rolled Coil,859.8,,kg,1,t,
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet Bill of Materials",No Capture,2025,#,Input Capacity|Iron Ore,Output|Steel Hot-rolled Coil,1.59,,t/yr,1,t/yr,
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet Bill of Materials",No Capture,2025,#,Input|Lime,Output|Steel Hot-rolled Coil,231,,kg,1,t,
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet Bill of Materials",No Capture,2025,Coking coal,Input|Coal,Output|Steel Hot-rolled Coil,496.02,,kg_coal,1,t,
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet Bill of Materials",No Capture,2025,PCI Coal,Input|Coal,Output|Steel Hot-rolled Coil,248.81,,kg_coal,1,t,
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet Bill of Materials",No Capture,2025,#,Input|Electricity,Output|Steel Hot-rolled Coil,127,,kWh,1,t,
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet Techno-economic details",No Capture,2025,#,CAPEX,Output Capacity|Steel Hot-rolled Coil,1367.8,,USD_2025/year,1,t/year,
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet Techno-economic details",No Capture,2025,#,OPEX Fixed,Output Capacity|Steel Hot-rolled Coil,177,,USD_2025/year,1,t/year,
+GSCT_2022,"GSCT.xlsx, Sheet Detailed Data",No Capture,2021,Labour,OPEX Fixed,Output Capacity|Steel Hot-rolled Coil,56,,USD_2021/year,1,t/year,
+GSCT_2022,"GSCT.xlsx, Sheet Detailed Data",No Capture,2021,Miscellaneous,OPEX Fixed,Output Capacity|Steel Hot-rolled Coil,61,,USD_2021/year,1,t/year,
+GSCT_2022,"GSCT.xlsx, Sheet Detailed Data",No Capture,2021,#,OPEX Fixed,Output Capacity|Steel Hot-rolled Coil,117,,USD_2021/year,1,t/year,
