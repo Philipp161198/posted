@@ -70,4 +70,4 @@ Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Bill of Materials""",*,No Capture,In
 Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Bill of Materials""",*,No Capture,Input|Burnt Lime,Output|Direct Reduced Iron,2026,#,7.34,,kg,1,t,refers to use of high grade iron ore
 Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Bill of Materials""",*,No Capture,Input|Burnt Dolomite,Output|Direct Reduced Iron,2026,#,49.86,,kg,1,t,refers to use of high grade iron ore
 Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Techno-economic details""",*,No Capture,CAPEX,Output|Direct Reduced Iron,2026,#,860,,USD_2025,1,t/year,
-Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Fixed OPEX""",*,No Capture,OPEX fixed,Output|Direct Reduced Iron,2026,#,80,,USD_2025,1,t/year,"Applies to Germany. Includes: labour, O&M, overheads etc.. Excludes: materials and energy."
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Fixed OPEX""",*,No Capture,OPEX fixed,Output|Direct Reduced Iron,2026,#,80,,USD_2025/year,1,t/year,"Applies to Germany. Includes: labour, O&M, overheads etc.. Excludes: materials and energy."
