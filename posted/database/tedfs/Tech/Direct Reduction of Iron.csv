@@ -9,15 +9,15 @@ Agora-KSV-2023,"Page 72 of 88, Document Page 72, Abbildung 26",*,No Capture,OCF,
 Benavides-2024,Appendix A,*,*,CAPEX,Output Capacity|Direct Reduced Iron,2024,Basic Plant (w/o Carbon Capture),578.2,,USD_2023,1.2,t/year,
 Benavides-2024,Appendix A,*,*,Input|Electricity,Output|Direct Reduced Iron,2024,Basic Plant Operation (w/o Carbon Capture),109,,kWh,1.2,t,
 Benavides-2024,Appendix A,*,*,OCF,,2024,#,90,,percent,,,
-Benavides-2024,Appendix A,*,*,OPEX Fixed,Output Capacity|Direct Reduced Iron,2024,Fixed O&M,21.59,,USD_2023/year,1.33333333333333,t/year,Data originally given as annual cost. Dividing reference by 0.9 for capacity factor.
-Benavides-2024,Appendix A,*,*,OPEX Fixed,Output Capacity|Direct Reduced Iron,2024,Labour,76.95,,USD_2023/year,1.33333333333333,t/year,Data originally given as annual cost. Dividing reference by 0.9 for capacity factor.
+Benavides-2024,Appendix A,*,*,OPEX Fixed,Output Capacity|Direct Reduced Iron,2024,Fixed O&M,21.59,,USD_2023/year,1.333333333,t/year,Data originally given as annual cost. Dividing reference by 0.9 for capacity factor.
+Benavides-2024,Appendix A,*,*,OPEX Fixed,Output Capacity|Direct Reduced Iron,2024,Labour,76.95,,USD_2023/year,1.333333333,t/year,Data originally given as annual cost. Dividing reference by 0.9 for capacity factor.
 Benavides-2024,Appendix A,NG,*,Input|Natural Gas,Output|Direct Reduced Iron,2024,#,11.52,,GJ_NG_HHV,1.2,t,
 Benavides-2024,Appendix A,NG,*,Input|Hydrogen,Output|Direct Reduced Iron,2024,#,0,,kg_H2,1.2,t,
 Benavides-2024,Appendix A,H2,*,Input|Natural Gas,Output|Direct Reduced Iron,2024,#,0,,GJ_NG_HHV,1.2,t,
 Benavides-2024,Appendix A,H2,*,Input|Hydrogen,Output|Direct Reduced Iron,2024,#,80.89,,kg_H2,1.2,t,
 Benavides-2024,Appendix A,*,With Capture,CAPEX,Output Capacity|Direct Reduced Iron,2024,Capture Unit,127.91,,USD_2023,1.2,t/year,
 Benavides-2024,Appendix A,*,With Capture,Capture Rate,,2024,#,90,,percent,,,
-Benavides-2024,Appendix A,*,With Capture,OPEX Fixed,Output Capacity|Direct Reduced Iron,2024,Capture Unit,24.13,,USD_2023/year,1.33333333333333,t/year,Data originally given as annual cost. Dividing reference by 0.9 for capacity factor.
+Benavides-2024,Appendix A,*,With Capture,OPEX Fixed,Output Capacity|Direct Reduced Iron,2024,Capture Unit,24.13,,USD_2023/year,1.333333333,t/year,Data originally given as annual cost. Dividing reference by 0.9 for capacity factor.
 Benavides-2024,Appendix A,*,With Capture,OPEX Variable,Output|Direct Reduced Iron,2024,#,2.28,,USD_2023,1.2,t,
 Benavides-2024,Appendix A,NG,With Capture,Input|Electricity,Output|Direct Reduced Iron,2024,"CO2 Capture, Compression, and Heat",205,,kWh,1.2,t,
 Benavides-2024,Appendix A,*,No Capture,Capture Rate,,2024,#,0,,percent,,,
@@ -60,3 +60,14 @@ Vogl-2018,Section 3,*,No Capture,Input|Iron Ore,Output|Direct Reduced Iron,2018,
 Wortler-2013,"Page 24 of 52, Document Page 22, Exhibit 8",*,No Capture,CAPEX,Output Capacity|Direct Reduced Iron,2013,#,230,,EUR_2013,1,t/year,
 Zang-2023,"Page 8 of 17, Document Page 2200297, Table 6",*,No Capture,OPEX Fixed,Output Capacity|Direct Reduced Iron,2023,Labour,2395,,kUSD_2019/year,4.33,Mt/year,
 Zang-2023,"Page 8 of 17, Document Page 2200297, Table 6",*,No Capture,OPEX Fixed,Output Capacity|Direct Reduced Iron,2023,Maintenance,17672,,kUSD_2019/year,4.33,Mt/year,
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Bill of Materials""",H2,No Capture,Input|Hydrogen,Output|Direct Reduced Iron,2026,Reduction agent,49.31,,kg_H2,1,t,refers to use of high grade iron ore
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Bill of Materials""",H2,No Capture,Input|Natural Gas,Output|Direct Reduced Iron,2026,Other,0.63,,GJ_NG_HHV,1,t,refers to use of high grade iron ore
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Bill of Materials""",H2,No Capture,Input|Electricity,Output|Direct Reduced Iron,2026,Heat,2.98,,GJ,1,t,refers to use of high grade iron ore
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Bill of Materials""",NG,No Capture,Input|Natural Gas,Output|Direct Reduced Iron,2026,Reduction agent,11,,GJ_NG_HHV,1,t,refers to use of high grade iron ore
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Bill of Materials""",NG,No Capture,Input|Natural Gas,Output|Direct Reduced Iron,2026,Heat,0.58,,GJ_NG_HHV,1,t,refers to use of high grade iron ore
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Bill of Materials""",NG,No Capture,Input|Electricity,Output|Direct Reduced Iron,2026,Other,176.83,,kWh,1,t,refers to use of high grade iron ore
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Bill of Materials""",*,No Capture,Input|Iron Ore,Output|Direct Reduced Iron,2026,#,1.36,,t,1,t,refers to use of high grade iron ore
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Bill of Materials""",*,No Capture,Input|Burnt Lime,Output|Direct Reduced Iron,2026,#,7.34,,kg,1,t,refers to use of high grade iron ore
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Bill of Materials""",*,No Capture,Input|Burnt Dolomite,Output|Direct Reduced Iron,2026,#,49.86,,kg,1,t,refers to use of high grade iron ore
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Techno-economic details""",*,No Capture,CAPEX,Output|Direct Reduced Iron,2026,#,860,,USD_2025,1,t/year,
+Steel-IQ_v2.0.0,"master_input.xlsx, Sheet ""Fixed OPEX""",*,No Capture,OPEX fixed,Output|Direct Reduced Iron,2026,#,80,,USD_2025,1,t/year,"Applies to Germany. Includes: labour, O&M, overheads etc.. Excludes: materials and energy."
